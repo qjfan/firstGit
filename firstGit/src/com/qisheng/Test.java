@@ -3,7 +3,7 @@ package com.qisheng;
 public class Test {
 	
 	
-	
+	int i = 10;
 	
 	
 	public static void main(String[] args) {
