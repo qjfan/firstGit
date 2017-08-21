@@ -5,7 +5,7 @@ public class Test {
 	
 	int i = 10;
 	
-	public int add(int x,int y) {
+	public static int add(int x,int y) {
 		
 		return x + y;
 	}
@@ -13,6 +13,7 @@ public class Test {
 	
 	public static void main(String[] args) {
 		
+		add(4,2);
 		
 		System.out.println("hello world!");
 		
