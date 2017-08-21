@@ -6,13 +6,15 @@ public class Work {
 	
 	private int age;
 	
-	public static void main(String[] args) {
-		
-		System.out.println("work");
 	
-		
-	}
-
+	
+	
+	
+	
+	
+	
+	
+	
 
 	
 	
